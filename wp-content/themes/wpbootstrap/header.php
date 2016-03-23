@@ -111,7 +111,7 @@ $(window).scroll(function () {
     if ($(document).scrollTop() == 0) {
         $('#header').removeClass('tiny');
         $('#menu-spacing').addClass('nav-margin-top');
-        $('.title-area img').attr('src', '/wp-content/themes/wpbootstrap/theme-images/revertech-logo.png');
+        $('.title-area img').attr('src', 'http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/revertech-logo.png');
         $('.navbar-toggle').removeClass('small');
         $('.contact-button').removeClass('small');
         $('.resource-button').removeClass('small');
@@ -120,7 +120,7 @@ $(window).scroll(function () {
     } else {
         $('#header').addClass('tiny');
         $('#menu-spacing').removeClass('nav-margin-top');
-        $('.title-area img').attr('src', '/wp-content/themes/wpbootstrap/theme-images/rts-circle-logo.png');
+        $('.title-area img').attr('src', 'http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/rts-circle-logo.png');
         $('.navbar-toggle').addClass('small');
         $('.contact-button').addClass('small');
         $('.resource-button').addClass('small');
