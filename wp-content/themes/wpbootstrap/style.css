@@ -15,7 +15,7 @@ This theme was built for Revertech using Bootstrap
 @import url('bootstrap-3.3.6-dist/assets/ie10-viewport-bug-workaround.css');
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 body { 
-     padding-top: 0px; 
+     padding-top: 175px; 
      padding-bottom: 40px; 
      font-family: 'Open Sans' , sans-serif;
      font-weight: 400;
