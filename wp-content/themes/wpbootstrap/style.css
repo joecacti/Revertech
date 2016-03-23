@@ -481,7 +481,7 @@ ul.title-area{
 }
 
 .carousel-inner {
-    max-height: 475px;
+    max-height: 375px;
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
@@ -828,7 +828,7 @@ ul.title-area{
 
 .navbar-nav {
     float: right;
-    margin-top: -53px;
+    margin-top: -25px;
     margin-right: 10px;
     }
 
