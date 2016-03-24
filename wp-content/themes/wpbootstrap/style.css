@@ -15,7 +15,7 @@ This theme was built for Revertech using Bootstrap
 @import url('bootstrap-3.3.6-dist/assets/ie10-viewport-bug-workaround.css');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,300,500');
 body { 
-     padding-top: 175px; 
+     padding-top: 155px; 
      padding-bottom: 40px; 
      font-family: 'Ubuntu', sans-serif;
      font-weight: 400;
@@ -468,7 +468,7 @@ h1.page-content {
    // Animation
    -webkit-transition: all 0.4s ease;
    transition: all 0.4s ease;
-   max-height: 140px;
+   max-height: 122px;
 }
 
 nav.navbar.shrink {
@@ -796,7 +796,7 @@ ul.title-area{
 
 nav.navbar.shrink {
   min-height: 15px;
-  max-height: 70px;
+  max-height: 65px;
 }
 
 ul.title-area{
@@ -828,7 +828,7 @@ ul.title-area{
 
 .navbar-nav {
     float: right;
-    margin-top: -25px;
+    margin-top: -53px;
     margin-right: 10px;
     }
 
