@@ -16,7 +16,7 @@
                                 <div class="col-md-3">
                                     <div class="footer-content">
                                         <div class="logo-footer">
-                                            <a href="#"><img id="logo-footer" class="img-responsive vcenter" src="/wp-content/themes/wpbootstrap/theme-images/footer-logo.png" alt=""></a>
+                                            <a href="#"><img id="logo-footer" class="img-responsive vcenter" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/footer-logo.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>
@@ -93,13 +93,13 @@
        		<div class="col-sm-2">
        			<div class="row">
        				<div class="col-sm-4">
-       					<a href="#"><img id="social-icons" class="img-responsive" src="/wp-content/themes/wpbootstrap/theme-images/icons/facebook.png"></a>
+       					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/facebook.png"></a>
        				</div>
        				<div class="col-sm-4">
-       					<a href="#"><img id="social-icons" class="img-responsive" src="/wp-content/themes/wpbootstrap/theme-images/icons/linkedin.png"></a>
+       					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/linkedin.png"></a>
        				</div>
        				<div class="col-sm-4">
-       					<a href="#"><img id="social-icons" class="img-responsive" src="/wp-content/themes/wpbootstrap/theme-images/icons/twitter.png"></a>
+       					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/twitter.png"></a>
        				</div>
        			</div>
        		</div>
