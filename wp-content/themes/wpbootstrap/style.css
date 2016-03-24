@@ -13,11 +13,11 @@ This theme was built for Revertech using Bootstrap
 
 @import url('bootstrap-3.3.6-dist/css/bootstrap.css');
 @import url('bootstrap-3.3.6-dist/assets/ie10-viewport-bug-workaround.css');
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,300,500');
 body { 
      padding-top: 175px; 
      padding-bottom: 40px; 
-     font-family: 'Open Sans' , sans-serif;
+     font-family: 'Ubuntu', sans-serif;
      font-weight: 400;
 }
 
@@ -497,7 +497,7 @@ ul.title-area{
 .navbar-inverse .navbar-nav > li > a {
     color: #26406c;
     font-size: 16px;
-    font-family: 'Open Sans' , sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
 }
 
