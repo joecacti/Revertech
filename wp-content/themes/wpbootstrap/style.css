@@ -762,6 +762,7 @@ ul.title-area{
 
 .navbar-inverse .navbar-nav > li > a {
     font-size: 17px;
+    text-transform: uppercase;
 }
 
 /* Start Sticky Menu Resize */
