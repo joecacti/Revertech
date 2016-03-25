@@ -13,7 +13,7 @@
                         <div class="container">
 
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-xs-12 col-md-4">
                                     <div class="footer-content">
                                         <div class="logo-footer">
                                             <a href="#"><img id="logo-footer" class="img-responsive vcenter" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/footer-logo.png" alt=""></a>
@@ -22,16 +22,17 @@
                                 </div>
 
                                 <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-md-3">
+                                <div class="col-xs-6 col-md-2">
                                     <div class="footer-content">
-                                        <h2>Services</h2>
+                                        <h4>About</h4>
 
                                         <nav>
                                             <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Home/WhyReverTech">Product Returns Management</a></li>
-                                                <li><a href="/Phoenix/Home/ServiceProcess">Repair & Exchange</a></li>
-                                                <li><a href="/Phoenix/Home/About">Embedded Operations</a></li>
-                                                <li><a href="/Phoenix/Home/About">Service Parts Management</a></li>
+                                                <li><a href="/Phoenix/Home/WhyReverTech">About Us</a></li>
+                                                <li><a href="/Phoenix/Home/ServiceProcess">Who We Are</a></li>
+                                                <li><a href="/Phoenix/Home/About">Our Approach</a></li>
+                                                <li><a href="/Phoenix/Home/About">Our Values</a></li>
+                                                <li><a href="/Phoenix/Home/About">Meet Our Team</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -39,17 +40,18 @@
 
                             
                                 <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-md-3">
+                                <div class="col-xs-6 col-md-2">
                                     <div class="footer-content">
-                                        <h2>Industries Served</h2>
+                                        <h4>Reverse Logistics</h4>
                                         <nav>
                                             <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Service_Repair/MicrosoftSurface">Retail</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Technology</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Healthcare</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Education</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Enterprise</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Government</a></li>
+                                                <li><a href="/Phoenix/Service_Repair/MicrosoftSurface">OEM/Remanufacturing</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Products Returns Management</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Whole Unit Exchange</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Depot Repair</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Product Assembly/Staging</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Value Recovery</a></li>
+                                                <li><a href="/Phoenix/Reports/OrderLookup">Recycle</a></li>
                                                 
                                             </ul>
                                         </nav>
@@ -57,15 +59,27 @@
                                 </div>
 
                                 <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-md-3">
+                                <div class="col-xs-6 col-md-2">
                                     <div class="footer-content">
-                                        <h2>About Us</h2>
+                                        <h4>Warranty & Insurance</h4>
                                         <nav>
                                             <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Home/Contact">Contact Us</a></li>
-                                                <li><a href="/Phoenix/Account">Locations</a></li>
-                                                <li><a href="/Phoenix/Home/Faq">Leadership Team</a></li>
-                                                <li><a href="/Phoenix/Home/Faq">Our Customers</a></li>
+                                                <li><a href="/Phoenix/Home/Contact">Extended Warranty</a></li>
+                                                <li><a href="/Phoenix/Account">Insurance</a></li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+
+                                <div class="space-bottom hidden-lg hidden-xs"></div>
+                                <div class="col-xs-6 col-md-2">
+                                    <div class="footer-content">
+                                        <h4>Our Clients</h4>
+                                        <nav>
+                                            <ul class="nav nav-pills nav-stacked">
+                                                <li><a href="/Phoenix/Home/Contact">Retailers</a></li>
+                                                <li><a href="/Phoenix/Account">Schools, Universities, & Government</a></li>
+                                                <li><a href="/Phoenix/Account">Large Enterprise</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -88,22 +102,22 @@
 <div class="container">
       	<div class="subfooter">
       	<div class="row">
-       		<div class="col-sm-5"><p class="footer-text" align="center">&copy; <?php echo date("Y"); ?> Revertech Solutions.  All Rights Reserved.</p>
+       		<div class="col-xs-6 col-md-5"><p class="footer-text" align="center">&copy; <?php echo date("Y"); ?> Revertech Solutions.  All Rights Reserved.</p>
        		</div>
-       		<div class="col-sm-2">
+       		<div class="col-xs-6 col-md-2">
        			<div class="row">
-       				<div class="col-sm-4">
+       				<div class="col-xs-4">
        					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/facebook.png"></a>
        				</div>
-       				<div class="col-sm-4">
+       				<div class="col-xs-4">
        					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/linkedin.png"></a>
        				</div>
-       				<div class="col-sm-4">
+       				<div class="col-xs-4">
        					<a href="#"><img id="social-icons" class="img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/icons/twitter.png"></a>
        				</div>
        			</div>
        		</div>
-       		<div class="col-sm-5"><p class="footer-text" align="center">Site designed and developed by <a href="joeylangley.com">Joey Langley</a></p>
+       		<div class="col-xs-12 col-md-5"><p class="footer-text" align="center">Site designed and developed by <a href="joeylangley.com">Joey Langley</a></p>
        		</div>
       	</div>
       </div>
