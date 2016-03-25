@@ -496,7 +496,7 @@ ul.title-area{
 
 .navbar-inverse .navbar-nav > li > a {
     color: #26406c;
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
 }
@@ -562,7 +562,7 @@ p.home {
     color: #3C3C3C;
     margin-top: 50px;
     text-align: center;
-    margin-bottom: 70px;
+    margin-bottom: 0px;
 }
 
 .logo {
