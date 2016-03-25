@@ -62,6 +62,7 @@
       </div>
     </nav>
 -->
+<div class="container">
 <div id="header" class="header fixed">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
@@ -77,7 +78,7 @@
       </div>
 <!-- Brand and toggle get grouped for better mobile display --> 
   <div class="container">
-  <div class="navbar-header"> 
+  <div class="btn-group navbar-header" role="group"> 
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> 
       <span class="sr-only">Toggle navigation</span> 
       <span class="icon-bar"></span> 
@@ -104,6 +105,7 @@ wp_nav_menu( array(
   <div id="menu-spacing" class="hide-for-medium-down nav-margin-top">
   </div>
 
+</div>
 </div>
 <script>
 jQuery(document).ready(function ($){
