@@ -15,7 +15,7 @@ This theme was built for Revertech using Bootstrap
 @import url('bootstrap-3.3.6-dist/assets/ie10-viewport-bug-workaround.css');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,300,500');
 body { 
-     padding-top: 155px; 
+     padding-top: 125px; 
      padding-bottom: 40px; 
      font-family: 'Ubuntu', sans-serif;
      font-weight: 300;
@@ -415,7 +415,7 @@ body {
 
 .row#content-titles{
     padding: 0px 0px 25px 0px;
-    margin-top: -55px;
+    margin-top: 0px;
 }
 
 .panel-body#services {
@@ -562,6 +562,7 @@ p.home {
     color: #3C3C3C;
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 70px;
 }
 
 .logo {
