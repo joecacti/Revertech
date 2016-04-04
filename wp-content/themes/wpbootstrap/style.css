@@ -21,6 +21,16 @@ body {
      font-weight: 300;
 }
 
+.sub-ribbon-image {
+    background-position: center center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.sub-ribbon-content {
+    min-height: 150px;
+}
+
 .sub-heroslider {
     margin-top: -88px;
     background-position: center center;
