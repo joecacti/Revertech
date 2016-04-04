@@ -21,6 +21,14 @@ body {
      font-weight: 300;
 }
 
+.sub-heroslider {
+    margin-top: -88px;
+    background-position: center center;
+    max-height: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+}
+
 .navbar-collapse.navbar-ex1-collapse.collapse.in{
 padding-top: 50px;
 }
