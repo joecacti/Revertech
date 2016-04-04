@@ -13,13 +13,13 @@
   <div class="page-content span12">
 
 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-	<div class="container">
+	<!--REMOVE TITLE<div class="container">
 		<div class="row" id="content-titles">
   			<div class="col-lg-2 col-md-2 col-sm-2"><hr></div>
-  			<div class="home-title col-lg-8 col-md-8 col-sm-8"><h1><?php the_title(); ?></h1></div>
+  			 <div class="home-title col-lg-8 col-md-8 col-sm-8"><h1><?php the_title(); ?></h1></div> 
   			<div class="col-lg-2 col-md-2 col-sm-2"><hr></div>
 		</div>
-	</div>
+	</div>-->
 		<div>
 			<div><?php the_content(); ?></div>
 		</div>
