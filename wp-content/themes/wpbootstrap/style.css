@@ -21,7 +21,14 @@ body {
      font-weight: 300;
 }
 
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
 
+.slider-text {
+    font-size: 60px;
+}
 
 .sub-ribbon-image {
     background-position: center center;
