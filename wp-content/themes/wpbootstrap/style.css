@@ -73,8 +73,6 @@ padding-top: 50px;
     font-size: 16px;
     padding-left: 20px;
     padding-right: 20px;
-
-    
 }
 
 .lightblue-ribbon {
@@ -99,6 +97,11 @@ padding-top: 50px;
     color: #fff;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: -15px;
 }
 
 .green-ribbon {
