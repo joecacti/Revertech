@@ -9,87 +9,12 @@
 
                     <!-- .footer start -->
                     <!-- ================ -->
-                    <div class="footer">
+                    <div class="footer" style="height:80px;">
                         <div class="container">
-
-                            <div class="row">
-                                <div class="col-xs-12 col-md-4">
-                                    <div class="footer-content">
-                                        <div class="logo-footer">
-                                            <a href="#"><img id="logo-footer" class="img-responsive vcenter" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/footer-logo.png" alt=""></a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-xs-6 col-md-2">
-                                    <div class="footer-content">
-                                        <h4>About</h4>
-
-                                        <nav>
-                                            <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Home/WhyReverTech">About Us</a></li>
-                                                <li><a href="/Phoenix/Home/ServiceProcess">Who We Are</a></li>
-                                                <li><a href="/Phoenix/Home/About">Our Approach</a></li>
-                                                <li><a href="/Phoenix/Home/About">Our Values</a></li>
-                                                <li><a href="/Phoenix/Home/About">Meet Our Team</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-
-                            
-                                <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-xs-6 col-md-2">
-                                    <div class="footer-content">
-                                        <h4>Reverse Logistics</h4>
-                                        <nav>
-                                            <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Service_Repair/MicrosoftSurface">OEM/Remanufacturing</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Products Returns Management</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Whole Unit Exchange</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Depot Repair</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Product Assembly/Staging</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Value Recovery</a></li>
-                                                <li><a href="/Phoenix/Reports/OrderLookup">Recycle</a></li>
-                                                
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-
-                                <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-xs-6 col-md-2">
-                                    <div class="footer-content">
-                                        <h4>Warranty & Insurance</h4>
-                                        <nav>
-                                            <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Home/Contact">Extended Warranty</a></li>
-                                                <li><a href="/Phoenix/Account">Insurance</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-
-                                <div class="space-bottom hidden-lg hidden-xs"></div>
-                                <div class="col-xs-6 col-md-2">
-                                    <div class="footer-content">
-                                        <h4>Our Clients</h4>
-                                        <nav>
-                                            <ul class="nav nav-pills nav-stacked">
-                                                <li><a href="/Phoenix/Home/Contact">Retailers</a></li>
-                                                <li><a href="/Phoenix/Account">Schools, Universities, & Government</a></li>
-                                                <li><a href="/Phoenix/Account">Large Enterprise</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                </div>
-                            
- 
-                                
-
+                                    <div class="footer-content" style="text-align:center;margin-top:25px;">
+<a href="/Phoenix/Home/WhyReverTech">About Us</a> | <a href="/Phoenix/Home/ServiceProcess">Our Services</a> | <a href="/Phoenix/Home/About">Technology</a> | <a href="/Phoenix/Home/About">Retailers</a> | <a href="/Phoenix/Home/About">Education</a>
+<a href="/Phoenix/Home/WhyReverTech">Enterprise</a> | <a href="/Phoenix/Home/WhyReverTech">Government</a> | <a href="/Phoenix/Home/WhyReverTech">Contact Us</a> |  
                             </div>
-                            <div class="space-bottom hidden-lg hidden-xs"></div>
                         </div>
                     </div>
                     <section id="contact-light-bottom">
