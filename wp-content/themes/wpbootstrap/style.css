@@ -21,14 +21,15 @@ body {
      font-weight: 300;
 }
 
+
 .spin {
   -webkit-animation: spin .2s infinite linear;
   -moz-animation: spin .2s infinite linear;
   -o-animation: spin .2s infinite linear;
   animation: spin .2s infinite linear;
-     -webkit-transform-origin: 50% 58%;
-         transform-origin:50% 58%;
-         -ms-transform-origin:50% 58%; /* IE 9 */
+     -webkit-transform-origin: 49% 50%;
+         transform-origin:49% 50%;
+         -ms-transform-origin:49% 50%; /* IE 9 */
 }
 
 @-moz-keyframes spin {
