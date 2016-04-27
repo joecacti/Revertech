@@ -97,9 +97,11 @@ body {
 
 
 
-
+.carousel-indicators{
+    display: none;
+}
 .carousel-caption {
-    top: 0;
+    top: 260px;
     bottom: auto;
 }
 
