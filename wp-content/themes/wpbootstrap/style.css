@@ -353,7 +353,7 @@ padding-top: 50px;
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 40px;
+    /*left: 40px;*/
     width: 2px;
     margin-left: -1.5px;
     background-color: #f1f1f1;
@@ -413,7 +413,7 @@ padding-top: 50px;
 
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
-    font-size: 10px;
+    font-size: 25px;
     line-height: 14px;
 }
 
@@ -442,12 +442,14 @@ padding-top: 50px;
 }
 
 .timeline .timeline-heading h4 {
-    margin-top: 0;
-    color: inherit;
+    margin-top: 20;
+    color: #88b0c1;
+    text-align: center;
 }
 
 .timeline .timeline-heading h4.subheading {
     text-transform: none;
+    text-align: center;
 }
 
 .timeline .timeline-body>p,
@@ -949,7 +951,7 @@ body {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 40px 20px 100px;
     }
 
     .timeline>li .timeline-image {
@@ -959,11 +961,11 @@ body {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 40px;
+        margin-top: 69px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 0 100px 20px 40px;
     }
 
 .navbar-inverse .navbar-nav > li > a {
