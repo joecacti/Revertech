@@ -820,6 +820,24 @@ ul.title-area{
      font-weight: 300;
 }
 
+.timeline>li .timeline-image {
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+}
+
+.timeline>li .timeline-panel {
+    float: left;
+    width: 41%;
+    padding: 0 20px 20px 30px;
+    text-align: right;
+}
+.timeline>li {
+    margin-bottom: 100px;
+    min-height: 100px;
+}
+
 .header-buttons {
     float: right;
 }
