@@ -9,7 +9,7 @@
 ?>
 <?php get_header(); ?>
 <div class="">
-<div class="row">
+<div>
   <div class="page-content span12">
 
 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>

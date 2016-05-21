@@ -88,7 +88,7 @@
           <div class="title-area col-lg-7"><a class="brand" href="<?php echo site_url(); ?>"><img class="logo img-responsive" src="http://joeylangley.com/rts/wp-content/themes/wpbootstrap/theme-images/revertech-logo.png"></a></div>
           <div class="col-lg-5">
             <div class="header-buttons row">
-              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 resource-button"><button class="btn btn-warning">RTS Portals</button></div>
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 resource-button"><a href="http://joeylangley.com/rts/portals/"><button class="btn btn-warning">RTS Portals</button></a></div>
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 contact-button"><a href="http://joeylangley.com/rts/contact/"><button class="btn btn-success">Contact Us</button></a></div>
             </div>
           </div>
